@@ -301,9 +301,9 @@ return [
             'icon' => 'fas fa-fw fa-user',
         ],
         [
-            'type' => 'navbar-search',
-            'text' => 'search',
-            'topnav_right' => true,
+            'text' => 'Categoria',
+            'url' => 'categoria',
+            'icon' => 'fas fa-fw fa-user',
         ],
         [
             'type' => 'fullscreen-widget',
